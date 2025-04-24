@@ -1,0 +1,14 @@
+{
+  "name": "sgc-citek-zpk_fi_zarap01",
+  "version": "1.0.0",
+  "description": "SGC-Citek-ZPK_FI_ZARAP01",
+  "repositoryLayout": {
+    "formatVersion": 5,
+    "format": "json",
+    "objectStorage": "plain",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true",
+    "readableSource": "false",
+    "keepClient": "false"
+  }
+}
