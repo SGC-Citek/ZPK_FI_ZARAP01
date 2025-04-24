@@ -1,0 +1,3 @@
+  PRIVATE SECTION.
+    METHODS:
+      GET_DATA.
