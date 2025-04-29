@@ -1,0 +1,6 @@
+@EndUserText.label: 'Sổ chi tiết công nợ phải thu/phải trả'
+define service ZUI_FI_ZARAP01 {
+  expose ZFI_I_SOCHITIETCONGNO_CUS;
+  expose ZFI_I_DUDAUKI_GLACCOUNT;
+  expose ZFI_I_DUDAUKI;
+}
